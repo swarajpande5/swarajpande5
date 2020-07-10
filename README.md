@@ -30,7 +30,7 @@ Hi, I'm Swaraj Pande, a Passionate ML and Data Science Enthusiast from India. ğŸ
 <code><img height="30"
     src="assets/java.png"></code>
 <code><img height="30"
-    src="assets/bash.png"></code>    
+    src="assets/bash.png"></code> 
 <code><img height="30"
     src="assets/git.png"></code>
 
