@@ -2,11 +2,11 @@
 
 <a href="https://www.linkedin.com/in/swaraj-pande-621130189/"> 
     <img aling="left" alt="Swaraj Pande | LinkedIn" width=25px
-    src = assets/linkedin.png>
+    src=https://github.com/swarajpande4/swarajpande4/blob/master/assets/linkedin.png>
 </a>
 <a href="https://twitter.com/PandeSwaraj"> 
     <img aling="left" alt="Swaraj Pande | Twitter" width=26px
-    src = assets/twitter.png>
+    src=https://github.com/swarajpande4/swarajpande4/blob/master/assets/twitter.png>
 </a>
 <a href="https://discord.gg/TV7SDz"> 
     <img aling="left" alt="Swaraj Pande | Discord" width=26px
