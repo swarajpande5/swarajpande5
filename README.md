@@ -10,7 +10,7 @@
 </a>
 <a href="https://discord.gg/TV7SDz"> 
     <img aling="left" alt="Swaraj Pande | Discord" width=26px
-    src = assets/discord.png>
+    src=https://github.com/swarajpande4/swarajpande4/blob/master/assets/discord.png>
 </a>
 
 <br />
@@ -24,14 +24,14 @@ Hi, I'm Swaraj Pande, a Passionate ML and Data Science Enthusiast from India. �
 **Languages and Tools:**
 
 <code><img height="30"
-    src="assets/cpp.png"></code>
+    src="https://github.com/swarajpande4/swarajpande4/blob/master/assets/cpp.png"></code>
 <code><img height="30"
-    src="assets/python.png"></code>
+    src="https://github.com/swarajpande4/swarajpande4/blob/master/assets/python.png"></code>
 <code><img height="30"
-    src="assets/java.png"></code>
+    src="https://github.com/swarajpande4/swarajpande4/blob/master/assets/java.png"></code>
 <code><img height="30"
-    src="assets/bash.png"></code> 
+    src="https://github.com/swarajpande4/swarajpande4/blob/master/assets/bash.png"></code> 
 <code><img height="30"
-    src="assets/git.png"></code>
+    src="https://github.com/swarajpande4/swarajpande4/blob/master/assets/git.png"></code>
 
 ### ありがとうございました!
