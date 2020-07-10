@@ -1,5 +1,4 @@
 ## Hello there, I'm [Swaraj!](https://github.com/swarajpande4) 👋
-<br />
 
 <a href="https://www.linkedin.com/in/swaraj-pande-621130189/"> 
     <img aling="left" alt="Swaraj Pande | LinkedIn" width=25px
@@ -14,6 +13,7 @@
     src=https://github.com/swarajpande4/swarajpande4/blob/master/assets/discord.png>
 </a>
 
+<br />
 <br />
 
 Hi, I'm Swaraj Pande, a Passionate ML and Data Science Enthusiast from India. 🇮🇳 ❤️
