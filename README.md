@@ -8,7 +8,7 @@
     <img aling="left" alt="Swaraj Pande | Twitter" width=26px
     src=https://github.com/swarajpande4/swarajpande4/blob/master/assets/twitter.png>
 </a>
-<a href="https://discord.gg/TV7SDz"> 
+<a href="https://discord.gg/yxgMhKf"> 
     <img aling="left" alt="Swaraj Pande | Discord" width=26px
     src=https://github.com/swarajpande4/swarajpande4/blob/master/assets/discord.png>
 </a>
