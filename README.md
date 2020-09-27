@@ -1,15 +1,15 @@
 ## Hello there, I'm [**Swaraj!**](https://github.com/swarajpande4) 👋
 
 <a href="https://www.linkedin.com/in/swaraj-pande-621130189/"> 
-    <img aling="left" alt="Swaraj Pande | LinkedIn" width=30px
+    <img aling="left" alt="Swaraj Pande | LinkedIn" width=35px
     src="https://img.icons8.com/fluent/2x/linkedin.png">
 </a>
 <a href="https://twitter.com/PandeSwaraj"> 
-    <img aling="left" alt="Swaraj Pande | Twitter" width=30px
+    <img aling="left" alt="Swaraj Pande | Twitter" width=35px
     src="https://img.icons8.com/fluent/2x/twitter.png">
 </a>
 <a href="https://discord.gg/TV7SDz"> 
-    <img aling="left" alt="Swaraj Pande | Discord" width=30px
+    <img aling="left" alt="Swaraj Pande | Discord" width=35px
     src="https://img.icons8.com/fluent/2x/discord-logo.png">
 </a>
 
@@ -26,23 +26,24 @@ Hi, I'm Swaraj Pande, a Passionate ML and Data Science Enthusiast from India.❤
 
 **Languages and Tools :**\
 <br />
-<code><img height="30"
+<code><img height="35"
     src="https://img.icons8.com/color/2x/c-plus-plus-logo.png"></code>
-<code><img height="30"
+<code><img height="35"
     src="https://img.icons8.com/color/2x/python.png"></code>
-<code><img height="30"
+<code><img height="35"
     src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png"></code>
-<code><img height="30"
+<code><img height="35"
     src="https://img.icons8.com/plasticine/2x/bash.png"></code> 
-<code><img height="30"
+<code><img height="35"
     src="https://img.icons8.com/color/2x/git.png"></code>
 
 <br />
 
-**Github Stats :**\
-<img alt="swarajpande4 Github Stats" src="https://github-readme-stats.vercel.app/api?username=swarajpande4&show_icons=true&hide_border=true&theme=tokyonight&private=true&count_private=true/" />
+**Github Stats :**
 
-<img alt="swarajpande4 Github Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarajpande4&layout=compact" />
+![Swaraj's github stats](https://github-readme-stats.vercel.app/api?username=swarajpande4&show_icons=true&include_all_commits=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swarajpande4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### ありがとうございました!
