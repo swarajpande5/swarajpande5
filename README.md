@@ -22,7 +22,9 @@ Hi, I'm Swaraj Pande, a Passionate ML and Data Science Enthusiast from India.❤
 - ❤️ I'm picking up Japanese as a Language too!
 - 💬 Ask me about anything [**here!**](https://github.com/swarajpande4/swarajpande4/issues)
 
-**Languages and Tools :**
+<br />
+
+**Languages and Tools :**\
 <br />
 <code><img height="30"
     src="https://img.icons8.com/color/2x/c-plus-plus-logo.png"></code>
@@ -37,8 +39,11 @@ Hi, I'm Swaraj Pande, a Passionate ML and Data Science Enthusiast from India.❤
 
 <br />
 
-**Github Stats :**
-<br />
-<img align="left" alt="swarajpande4 Github Stats" src="https://github-readme-stats.vercel.app/api?username=swarajpande4&show_icons=true&hide_border=true&theme=tokyonight&private=true&count_private=true/" />
+**Github Stats :**\
+<img alt="swarajpande4 Github Stats" src="https://github-readme-stats.vercel.app/api?username=swarajpande4&show_icons=true&hide_border=true&theme=tokyonight&private=true&count_private=true/">
 
-<img align="left" alt="swarajpande4 Github Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarajpande4&layout=compact" />
+<img alt="swarajpande4 Github Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarajpande4&layout=compact">
+
+
+### ありがとうございました!
+
