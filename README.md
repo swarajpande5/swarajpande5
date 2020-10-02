@@ -31,8 +31,6 @@ Hi, I'm Swaraj Pande, a Passionate ML and Data Science Enthusiast from India.❤
 <code><img height="35"
     src="https://img.icons8.com/color/2x/python.png"></code>
 <code><img height="35"
-    src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png"></code>
-<code><img height="35"
     src="https://img.icons8.com/plasticine/2x/bash.png"></code> 
 <code><img height="35"
     src="https://img.icons8.com/color/2x/git.png"></code>
