@@ -41,8 +41,5 @@ Hi, I'm Swaraj Pande, a Passionate ML and Data Science Enthusiast from India.❤
 
 [![Swaraj's github stats](https://github-readme-stats.vercel.app/api?username=swarajpande4&show_icons=true&include_all_commits=true)](https://github-readme-stats.vercel.app/api?username=swarajpande4&show_icons=true&include_all_commits=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swarajpande4&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=swarajpande4&layout=compact)
-
-
 ### ありがとうございました!
 
