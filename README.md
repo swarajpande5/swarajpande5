@@ -18,7 +18,7 @@
 
 Hi, I'm Swaraj Pande, a Passionate ML and Data Science Enthusiast from India.❤️
 - 🎓 I'm currently a Sophomore at ABES Engineering College, Ghaziabad
-- 🔎 I'm currently learning Python, Data Structures and Algorithms alongwith Mathematics for Machine Learning
+- 🔎 I'm currently learning Python, Data Structures and Algorithms alongwith Machine Learning.
 - ❤️ I'm picking up Japanese as a Language too!
 - 💬 Ask me about anything [**here!**](https://github.com/swarajpande4/swarajpande4/issues)
 
