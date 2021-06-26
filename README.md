@@ -1,4 +1,4 @@
-## Hello there, I'm [**Swaraj!**](https://github.com/swarajpande4) 👋
+## Hello there, I'm [**Swaraj!**](https://github.com/swarajpande4) <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px">
 
 <a href="https://www.linkedin.com/in/swaraj-pande-621130189/"> 
     <img aling="left" alt="Swaraj Pande | LinkedIn" width=35px
