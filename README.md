@@ -1,17 +1,22 @@
 ## Hello there, I'm [**Swaraj!**](https://github.com/swarajpande4) <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px">
 
-<a href="https://www.linkedin.com/in/swaraj-pande-621130189/"> 
-    <img aling="left" alt="Swaraj Pande | LinkedIn" width=35px
-    src="https://img.icons8.com/fluent/2x/linkedin.png">
+<a href="https://www.linkedin.com/in/swarajpande4/"> 
+    <img aling="left" alt="Swaraj Pande | LinkedIn" width=80px
+    src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
+</a>
+<a href="mailto:swarajpande4@gmail.com"> 
+    <img aling="left" alt="Swaraj Pande | Gmail" width=64px
+    src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white">
 </a>
 <a href="https://twitter.com/PandeSwaraj"> 
-    <img aling="left" alt="Swaraj Pande | Twitter" width=35px
-    src="https://img.icons8.com/fluent/2x/twitter.png">
+    <img aling="left" alt="Swaraj Pande | Twitter" width=71px
+    src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white">
 </a>
 <a href="https://discord.gg/hfXzbjT"> 
-    <img aling="left" alt="Swaraj Pande | Discord" width=35px
-    src="https://img.icons8.com/fluent/2x/discord-logo.png">
+    <img aling="left" alt="Swaraj Pande | Discord" width=75px
+    src="https://img.shields.io/badge/Discord-7289DA?flat&logo=discord&logoColor=white">
 </a>
+
 
 <br />
 <br />
@@ -39,7 +44,9 @@ Hi, I'm Swaraj Pande, a Passionate ML and Data Science Enthusiast from India.❤
 
 **Github Stats :**
 
-[![Swaraj's github stats](https://github-readme-stats.vercel.app/api?username=swarajpande4&show_icons=true&include_all_commits=true)](https://github-readme-stats.vercel.app/api?username=swarajpande4&show_icons=true&include_all_commits=true)
+[![Swaraj's Github Stats](https://github-readme-stats.vercel.app/api?username=swarajpande4&show_icons=true&include_all_commits=true)](https://github-readme-stats.vercel.app/api?username=swarajpande4&show_icons=true&include_all_commits=true)
+
+![Swaraj's Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=swarajpande4) 
 
 ### ありがとうございました!
 
