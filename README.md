@@ -1,19 +1,19 @@
 ## Hello there, I'm [**Swaraj!**](https://github.com/swarajpande4) <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px">
 
 <a href="https://www.linkedin.com/in/swarajpande4/"> 
-    <img aling="left" alt="Swaraj Pande | LinkedIn" width=80px
+    <img aling="left" alt="Swaraj Pande | LinkedIn"
     src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
 </a>
 <a href="mailto:swarajpande4@gmail.com"> 
-    <img aling="left" alt="Swaraj Pande | Gmail" width=64px
+    <img aling="left" alt="Swaraj Pande | Gmail"
     src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white">
 </a>
 <a href="https://twitter.com/PandeSwaraj"> 
-    <img aling="left" alt="Swaraj Pande | Twitter" width=71px
+    <img aling="left" alt="Swaraj Pande | Twitter"
     src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white">
 </a>
 <a href="https://discord.gg/hfXzbjT"> 
-    <img aling="left" alt="Swaraj Pande | Discord" width=75px
+    <img aling="left" alt="Swaraj Pande | Discord"
     src="https://img.shields.io/badge/Discord-7289DA?flat&logo=discord&logoColor=white">
 </a>
 
