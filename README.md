@@ -25,6 +25,8 @@
 <br />
 <br />
 
+<img align = "right" alt="GIF" src = "https://media.giphy.com/media/Yx5ns1mSPBle0/giphy.gif" width = "325">
+
 Hi, I'm Swaraj Pande, a Passionate ML and Data Science Enthusiast from India.❤️
 - 🎓 I'm currently a Sophomore at ABES Engineering College, Ghaziabad
 - 🔎 I'm looking forward to contribute to some Open Source ML projects.
