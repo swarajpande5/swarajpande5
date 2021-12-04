@@ -29,7 +29,7 @@
 
 Hi, I'm Swaraj Pande, a Passionate ML and Data Science Enthusiast from India. ❤️
 - 🎓 I'm currently a pre-final year student at ABES Engineering College, Ghaziabad.
-- 🔎 I'm looking forward to contribute to some open source ML projects.
+- 🔎 I'm looking forward to contribute to some open source projects.
 - 📚 Understanding and practicing DSA everyday. 
 - ❤️ I'm picking up Japanese as a language too!
 - 💬 Ask me about anything [**here!**](https://github.com/swarajpande4/swarajpande4/issues)
@@ -53,8 +53,6 @@ Hi, I'm Swaraj Pande, a Passionate ML and Data Science Enthusiast from India. �
 <a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a>
 
 
-<a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-<a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 -->
 
