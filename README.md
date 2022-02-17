@@ -30,7 +30,7 @@
 Hi, I'm Swaraj Pande, a Passionate ML and DevOps enthusiast from India. ❤️
 - 🎓 I'm currently a pre-final year student at ABES Engineering College, Ghaziabad.
 - 🔎 I'm looking forward to contribute to some open source projects.
-- 📚 Understanding and practicing DSA everyday. 
+- 📚 Understanding and practicing DSA/CP everyday. 
 - ❤️ I'm picking up Japanese as a language too!
 - 💬 Ask me about anything [**here!**](https://github.com/swarajpande4/swarajpande4/issues)
 
