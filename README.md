@@ -24,8 +24,8 @@
 
 <br />
 <br />
-
-<img align = "right" alt="GIF" src = "https://media.giphy.com/media/Yx5ns1mSPBle0/giphy.gif" width = "300">
+<!-- 
+<img align = "right" alt="GIF" src = "https://media.giphy.com/media/Yx5ns1mSPBle0/giphy.gif" width = "300"> -->
 
 Hi, I'm Swaraj Pande, a Passionate ML and DevOps enthusiast from India. ❤️ \
 Grad '23 ABES Engineering College, Ghaziabad
