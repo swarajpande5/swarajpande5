@@ -8,9 +8,9 @@
     <img aling="left" alt="Swaraj Pande | Gmail"
     src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white">
 </a>
-<a href="https://www.kaggle.com/swarajpande"> 
-    <img aling="left" alt="Swaraj Pande | Kaggle"
-    src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white">
+<a href="https://leetcode.com/swarajpande4/"> 
+    <img aling="left" alt="Swaraj Pande | LeetCode"
+    src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black">
 </a>
 <a href="https://twitter.com/PandeSwaraj"> 
     <img aling="left" alt="Swaraj Pande | Twitter"
