@@ -31,7 +31,7 @@ Hi, I'm Swaraj Pande, a Passionate ML and DevOps enthusiast from India. ❤️ \
 Grad '23 ABES Engineering College, Ghaziabad
 <br>
 
-- 📈 I'm currently a Summer Research Intern @ IIT - Kharagpur.
+- 📈 Former Summer Research Intern @ IIT - Kharagpur.
 - 🔎 I'm looking forward to contribute to some open source projects in the future.
 - 📚 Understanding and practicing DSA/CP everyday. 
 - ❤️ I'm picking up Japanese as a language too!
