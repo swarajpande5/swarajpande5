@@ -31,7 +31,7 @@ Hi, I'm Swaraj Pande, a Passionate ML and DevOps enthusiast from India. ❤️ \
 Grad '23 ABES Engineering College, Ghaziabad
 <br>
 
-- 🏡 Incoming Software Engineering Apprentice @ [Red Hat](https://www.redhat.com/en).
+- 💻 Software Engineering Apprentice @ [Red Hat](https://www.redhat.com/en).
 - 📈 Former Summer Research Intern @ IIT - Kharagpur.
 - 📚 Understanding and practicing DSA/CP everyday. 
 - ❤️ I'm picking up Japanese as a language too!
