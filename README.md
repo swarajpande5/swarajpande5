@@ -27,7 +27,7 @@
 <!-- 
 <img align = "right" alt="GIF" src = "https://media.giphy.com/media/Yx5ns1mSPBle0/giphy.gif" width = "300"> -->
 
-Hi, I'm Swaraj Pande, a Passionate ML and DevOps enthusiast from India. ❤️ \
+Hi, I'm Swaraj Pande, a passionate Backend, ML and DevOps enthusiast from India. ❤️ \
 B.Tech CSE Grad '23 ABES Engineering College, Ghaziabad
 <br>
 
