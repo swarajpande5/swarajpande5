@@ -1,4 +1,4 @@
-## Hello there, I'm [**Swaraj!**](https://github.com/swarajpande4) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25">
+## Hello there, I'm [**Swaraj!**](https://github.com/swarajpande4) 👋
 
 <a href="https://www.linkedin.com/in/swarajpande4/"> 
     <img aling="left" alt="Swaraj Pande | LinkedIn"
@@ -16,26 +16,18 @@
     <img aling="left" alt="Swaraj Pande | Twitter"
     src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white">
 </a>
-<a href="https://discord.gg/hfXzbjT"> 
-    <img aling="left" alt="Swaraj Pande | Discord"
-    src="https://img.shields.io/badge/Discord-7289DA?flat&logo=discord&logoColor=white">
-</a>
-
 
 <br />
 <br />
-<!-- 
-<img align = "right" alt="GIF" src = "https://media.giphy.com/media/Yx5ns1mSPBle0/giphy.gif" width = "300"> -->
 
-Hi, I'm Swaraj Pande, a passionate Backend, ML and DevOps enthusiast from India. ❤️ \
-B.Tech CSE Grad '23 ABES Engineering College, Ghaziabad
-<br>
+Hi, I'm Swaraj Pande, a passionate Backend, ML and DevOps enthusiast from India. ❤️ 
 
-- 💻 Currently an Associate Software Engineer @ [**Red Hat**](https://www.redhat.com/en).
-- 📈 Former Summer Research Intern @ IIT - Kharagpur.
-- 📚 Understanding and developing Backend, DevOps and Machine Learning. 
+- 💻 Currently an Associate Software Engineer @ [**Red Hat**](https://www.redhat.com/en), wherein I work with Data Realization team.
+- 🎓 Former Summer Research Intern @ IIT - Kharagpur.
+- 📚 Understanding and developing Backend, DevOps and Machine Learning.
+- 🧑‍🏫 I love to teach and interact with young minds. 
 - ❤️ I'm picking up Japanese as a language too!
-- 💬 Ask me about anything [**here!**](https://github.com/swarajpande4/swarajpande4/issues)
+- 💬 Connect with me on: [Twitter](https://twitter.com/PandeSwaraj) | [LinkedIn](https://www.linkedin.com/in/swarajpande4/)
 
 <br />
 
@@ -54,25 +46,8 @@ Languages and tools that I'm great at,
 - Docker
 - Kubernetes (including OpenShift)
 - DevOps (I love MLOps)
-<!---  
-<a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
-
-
-<a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-
-<a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
-<a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
-<a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a>
-
-
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
--->
-
-</p>
     
 <br />
-
-**GitHub Stats :**
 
 [![Swaraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=swarajpande4&show_icons=true&include_all_commits=true)](https://github-readme-stats.vercel.app/api?username=swarajpande4&show_icons=true&include_all_commits=true)
 
