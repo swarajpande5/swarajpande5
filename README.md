@@ -27,7 +27,7 @@ Hi, I'm Swaraj Pande, a passionate Backend, ML and DevOps enthusiast from India.
 - 📚 Understanding and developing Backend, DevOps and Machine Learning.
 - 🧑‍🏫 I love to teach and interact with young minds. 
 - ❤️ I'm picking up Japanese as a language too!
-- 💬 Connect with me on: [Twitter](https://twitter.com/PandeSwaraj) | [LinkedIn](https://www.linkedin.com/in/swarajpande4/)
+- 💬 Connect with me on: [X (Twitter)](https://twitter.com/PandeSwaraj) | [LinkedIn](https://www.linkedin.com/in/swarajpande4/)
 
 <br />
 
