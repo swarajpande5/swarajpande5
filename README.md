@@ -12,20 +12,13 @@ Hi, I'm Swaraj Pande, a passionate Backend, ML and DevOps enthusiast from India.
 <br />
 
 Languages and tools that I'm great at, 
-- Python
-- Golang
-- Machine Learning Frameworks
-    - Scikit-Learn
-    - Tensorflow
-    - PyTorch
-- Databases
-    - MySQL
-    - MongoDB
-    - ArangoDB
-    - Redis
-- Docker
-- Kubernetes (including OpenShift)
-- DevOps (I love MLOps)
+- Python | Go | C++
+- Flask | Django
+- Scikit-Learn | Tensorflow | PyTorch
+- MySQL | MongoDB | ArangoDB | Redis
+- Docker | Kubernetes | OpenShift
+- AWS | GCP
+- I ❤️ Linux and MLOps
     
 <br />
 
