@@ -12,7 +12,7 @@ Hi, I'm Swaraj Pande, a passionate Backend, ML and DevOps enthusiast from India.
 <br />
 
 Languages and tools that I'm great at, 
-- Python | Go | C++
+- Python | Go 
 - Flask | Django
 - Scikit-Learn | Tensorflow | PyTorch
 - MySQL | MongoDB | ArangoDB | Redis
