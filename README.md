@@ -1,4 +1,4 @@
-## Hello there, I'm [**Swaraj!**](https://github.com/swarajpande5) 👋
+## Hello there, I'm [**Swaraj !**](https://github.com/swarajpande5) 👋
 
 Hi, I'm Swaraj Pande, a passionate Backend, ML and DevOps enthusiast from India. ❤️ 
 
