@@ -2,7 +2,7 @@
 
 Hi, I'm Swaraj Pande, a passionate Backend, ML and DevOps enthusiast from India. ❤️ 
 
-- 💻 Currently an Associate Software Engineer @ [**Red Hat**](https://www.redhat.com/en), wherein I work with Data Realization team.
+- 💻 Currently an Associate Software Engineer @ [**Red Hat**](https://www.redhat.com/en), wherein I improve (and sometimes break) backend systems.
 - 🎓 Former Summer Research Intern @ IIT - Kharagpur.
 - 📚 Understanding and developing Backend, DevOps and Machine Learning.
 - 🧑‍🏫 I love to teach and interact with young minds. 
