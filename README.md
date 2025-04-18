@@ -16,7 +16,7 @@ Languages and tools that I'm great at,
 - Flask | Django
 - Scikit-Learn | Tensorflow | PyTorch
 - MySQL | MongoDB | ArangoDB | Redis
-- Docker | Kubernetes | OpenShift
+- Docker | Kubernetes | OpenShift | Ansible
 - AWS | GCP
 - I ❤️ Linux and MLOps
 
